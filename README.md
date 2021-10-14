@@ -2,6 +2,9 @@
 
 ------
 
+
+## **Main methods**
+
 ## **Execution Details**
 
 ### Requirements
